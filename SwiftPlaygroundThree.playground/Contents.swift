@@ -26,3 +26,15 @@ for name in fruitNames
 print(fruitNames[1])
 
 print(fruitNames[0])
+
+//part 8 assignment#4
+
+var intvalue:[Int]
+
+intvalue = [5,9,10,11,15]
+print("My favorite number is/(intvalue)")
+
+for Numbers in intvalue
+{
+    print ("My favorite number", Numbers)
+}
