@@ -38,3 +38,6 @@ for Numbers in intvalue
 {
     print ("My favorite number", Numbers)
 }
+
+remove(" intvalue [2]")
+
