@@ -40,10 +40,9 @@ for Numbers in intvalue
 }
 
 //part 9
-let remove{("remove [2]")}
-
-    print (" remove [2]")
-    
+let removed = intvalue.remove (at : 2)
+{
+    print ("My favorite number" + intvalue)
 
 
 
