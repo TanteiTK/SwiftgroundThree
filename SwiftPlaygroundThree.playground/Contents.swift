@@ -40,7 +40,10 @@ for Numbers in intvalue
 }
 
 //part 9
-let remove=intvalue.remove (at: 2)
+let remove{("remove [2]")}
+
+    print (" remove [2]")
+    
 
 
 
