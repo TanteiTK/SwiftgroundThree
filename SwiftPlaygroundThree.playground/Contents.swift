@@ -39,5 +39,8 @@ for Numbers in intvalue
     print ("My favorite number", Numbers)
 }
 
-remove(" intvalue [2]")
+//part 9
+let remove=intvalue.remove (at: 2)
+
+
 
